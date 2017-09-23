@@ -121,7 +121,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MinimizeBox = false;
             this.Name = "MapDataSimulation";
-            this.Text = "Map Data Simulation";
+            this.Text = "맵 데이터 시뮬레이션";
             this.Load += new System.EventHandler(this.MapDataSimulation_Load);
             this.statusStrip1.ResumeLayout(false);
             this.statusStrip1.PerformLayout();

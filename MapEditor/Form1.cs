@@ -383,7 +383,7 @@ namespace MapEditor
                         Rectangle srcRect = new Rectangle(Arr_x * TileSize, Arr_y * TileSize, TileSize, TileSize);
                         cropped = (Bitmap)Savebm.Clone(srcRect, Savebm.PixelFormat);
                         Selector2.Size = new Size(32, 32);
-                        ShowMessage("        Copied a Tile");
+                        ShowMessage("         타일 복사");
                         toolStripButton_Eraser.Checked = false;
                     }
                 }
@@ -880,7 +880,7 @@ namespace MapEditor
                     Menu_isopen = 1;
                 }
                 else
-                    MessageBox.Show("should select Tileset first.");
+                    MessageBox.Show("타일셋을 먼저 선택해 주세요.");
             }
         }
 
@@ -888,7 +888,7 @@ namespace MapEditor
         {
             MapDataSave();
 
-            ShowMessage("    Saved Map Data");
+            ShowMessage("         맵정보 저장");
         }
 
         private void 도움ToolStripMenuItem_Click(object sender, EventArgs e)
@@ -959,7 +959,7 @@ namespace MapEditor
                     Menu_isopen = 1;
                 }
                 else
-                    MessageBox.Show("should select Tileset first.");
+                    MessageBox.Show("타일셋을 먼저 선택해 주세요.");
             }
         }
 
@@ -982,7 +982,7 @@ namespace MapEditor
         {
             MapDataSave();
 
-            ShowMessage("    Saved Map Data");
+            ShowMessage("         맵정보 저장");
         }
         private void MapDataSave()
         {
@@ -1028,7 +1028,7 @@ namespace MapEditor
                 if(ChipsetData == null)
                     ChipsetData = new string[1, 1];
 
-                ShowMessage("        Erase Mode");
+                ShowMessage("         지우개 모드");
             }
         }
 
@@ -1085,11 +1085,11 @@ namespace MapEditor
                 ScreenShotSave();
 
                 if(toolStripButton_Eraser.Checked == false)
-                     ShowMessage("             Paint");
+                     ShowMessage("            페인트");
                 else 
                 {
                     toolStripButton_Eraser.Checked = false;
-                    ShowMessage("        Map Clear");
+                    ShowMessage("          맵 클리어");
                     cropped = null;
                 }
 
@@ -1146,7 +1146,7 @@ namespace MapEditor
                 MapDataSave();
                 ScreenShotSave();
 
-                ShowMessage("    Saved Map Data");
+                ShowMessage("         맵정보 저장");
 
                 string[] spear = { ".png" };
                 string[] words = MapPath.Split(spear, StringSplitOptions.RemoveEmptyEntries);
@@ -1191,7 +1191,7 @@ namespace MapEditor
         public void RefreshFileList()
         {
             ListDirectory(treeView1, @"Maps");
-            ShowMessage("  Created a new map");
+            ShowMessage("          새 맵 작성");
         }
 
         // Tileset Changed : Called by TilesetSelect Form

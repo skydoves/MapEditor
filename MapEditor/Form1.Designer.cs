@@ -256,31 +256,31 @@
             this.타일셋ToolStripMenuItem,
             this.toolStripMenuItem1});
             this.ToolStrip_File.Name = "ToolStrip_File";
-            this.ToolStrip_File.Size = new System.Drawing.Size(53, 20);
-            this.ToolStrip_File.Text = "File(A)";
+            this.ToolStrip_File.Size = new System.Drawing.Size(59, 20);
+            this.ToolStrip_File.Text = "파일(A)";
             // 
             // 새로운맵ToolStripMenuItem
             // 
             this.새로운맵ToolStripMenuItem.Image = global::MapEditor.Properties.Resources.Icon_file2;
             this.새로운맵ToolStripMenuItem.Name = "새로운맵ToolStripMenuItem";
-            this.새로운맵ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.새로운맵ToolStripMenuItem.Text = "New Map";
+            this.새로운맵ToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
+            this.새로운맵ToolStripMenuItem.Text = "새로운 맵";
             this.새로운맵ToolStripMenuItem.Click += new System.EventHandler(this.새로운맵ToolStripMenuItem_Click);
             // 
             // 타일셋ToolStripMenuItem
             // 
             this.타일셋ToolStripMenuItem.Image = global::MapEditor.Properties.Resources.Icon_Tile;
             this.타일셋ToolStripMenuItem.Name = "타일셋ToolStripMenuItem";
-            this.타일셋ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.타일셋ToolStripMenuItem.Text = "Tileset";
+            this.타일셋ToolStripMenuItem.Size = new System.Drawing.Size(126, 22);
+            this.타일셋ToolStripMenuItem.Text = "타일셋";
             this.타일셋ToolStripMenuItem.Click += new System.EventHandler(this.타일셋ToolStripMenuItem_Click);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Image = global::MapEditor.Properties.Resources.Icon_panorama;
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
-            this.toolStripMenuItem1.Text = "Parnorama";
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(126, 22);
+            this.toolStripMenuItem1.Text = "파노라마";
             this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // 데이터ToolStripMenuItem
@@ -289,30 +289,30 @@
             this.타일셋데이터셋팅ToolStripMenuItem,
             this.맵데이터저장ToolStripMenuItem});
             this.데이터ToolStripMenuItem.Name = "데이터ToolStripMenuItem";
-            this.데이터ToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
-            this.데이터ToolStripMenuItem.Text = "Data(D)";
+            this.데이터ToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
+            this.데이터ToolStripMenuItem.Text = "데이터(D)";
             // 
             // 타일셋데이터셋팅ToolStripMenuItem
             // 
             this.타일셋데이터셋팅ToolStripMenuItem.Image = global::MapEditor.Properties.Resources.IconTileSetting;
             this.타일셋데이터셋팅ToolStripMenuItem.Name = "타일셋데이터셋팅ToolStripMenuItem";
-            this.타일셋데이터셋팅ToolStripMenuItem.Size = new System.Drawing.Size(156, 22);
-            this.타일셋데이터셋팅ToolStripMenuItem.Text = "Setting Tileset";
+            this.타일셋데이터셋팅ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.타일셋데이터셋팅ToolStripMenuItem.Text = "타일셋 셋팅";
             this.타일셋데이터셋팅ToolStripMenuItem.Click += new System.EventHandler(this.타일셋데이터셋팅ToolStripMenuItem_Click);
             // 
             // 맵데이터저장ToolStripMenuItem
             // 
             this.맵데이터저장ToolStripMenuItem.Image = global::MapEditor.Properties.Resources.Icon_save;
             this.맵데이터저장ToolStripMenuItem.Name = "맵데이터저장ToolStripMenuItem";
-            this.맵데이터저장ToolStripMenuItem.Size = new System.Drawing.Size(156, 22);
-            this.맵데이터저장ToolStripMenuItem.Text = "Save Map Data";
+            this.맵데이터저장ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.맵데이터저장ToolStripMenuItem.Text = "맵 정보 저장";
             this.맵데이터저장ToolStripMenuItem.Click += new System.EventHandler(this.맵데이터저장ToolStripMenuItem_Click);
             // 
             // 도움ToolStripMenuItem
             // 
             this.도움ToolStripMenuItem.Name = "도움ToolStripMenuItem";
-            this.도움ToolStripMenuItem.Size = new System.Drawing.Size(58, 20);
-            this.도움ToolStripMenuItem.Text = "Help(E)";
+            this.도움ToolStripMenuItem.Size = new System.Drawing.Size(69, 20);
+            this.도움ToolStripMenuItem.Text = "도움말(E)";
             this.도움ToolStripMenuItem.Click += new System.EventHandler(this.도움ToolStripMenuItem_Click);
             // 
             // toolStrip1

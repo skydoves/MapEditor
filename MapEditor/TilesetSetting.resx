@@ -174,13 +174,13 @@
     <value>117, 18</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 15</value>
+    <value>111, 15</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>Tileset data setting</value>
+    <value>타일셋 데이터 설정</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>

@@ -22,7 +22,7 @@ namespace MapEditor
         {
             FormClosed += TilesetSelect_FormClosed;
 
-            label2.Text = "           If occur some errors on map, click 'Refresh' icon.";
+            label2.Text = "           맵에 오류가 발생했다면, Refresh 버튼을 눌러주세요.";
             label4.Text = "MapEditor v" + Properties.Settings.Default.Version; 
         }
 
@@ -31,11 +31,6 @@ namespace MapEditor
         {
             Form1 frm1 = (Form1)this.Owner;
             frm1.Menu_isopen = 0;
-        }
-
-        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            Process.Start("IExplore", "http://blog.naver.com/skydoves");
         }
     }
 }

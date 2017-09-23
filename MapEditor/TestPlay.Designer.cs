@@ -80,7 +80,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "TestPlay";
-            this.Text = "Test Play";
+            this.Text = "테스트 플레이";
             this.Load += new System.EventHandler(this.TestPlay_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

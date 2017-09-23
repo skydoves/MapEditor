@@ -46,11 +46,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("맑은 고딕", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label1.Location = new System.Drawing.Point(167, 22);
+            this.label1.Location = new System.Drawing.Point(167, 24);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(72, 15);
+            this.label1.Size = new System.Drawing.Size(87, 15);
             this.label1.TabIndex = 3;
-            this.label1.Text = "a new map";
+            this.label1.Text = "새로운 맵 작성";
             // 
             // textBox1
             // 
@@ -86,7 +86,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 10;
-            this.button1.Text = "Create";
+            this.button1.Text = "만들기";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -100,7 +100,7 @@
             this.groupBox1.Size = new System.Drawing.Size(226, 51);
             this.groupBox1.TabIndex = 11;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Map Name";
+            this.groupBox1.Text = "맵 이름";
             // 
             // groupBox2
             // 
@@ -111,7 +111,7 @@
             this.groupBox2.Size = new System.Drawing.Size(130, 45);
             this.groupBox2.TabIndex = 12;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Width";
+            this.groupBox2.Text = "넓이";
             // 
             // groupBox3
             // 
@@ -122,7 +122,7 @@
             this.groupBox3.Size = new System.Drawing.Size(131, 45);
             this.groupBox3.TabIndex = 13;
             this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Height";
+            this.groupBox3.Text = "높이";
             // 
             // NewMap
             // 
