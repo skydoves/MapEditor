@@ -1,18 +1,18 @@
 # MapEditor
 You can draw your map using by this Map Editor project. <br>
-This project created at 2015.12.6 ~ 2016.1.03
+This project created at 2015.12.6 ~ 2016.1.3
 
 ![screenshot141181926](https://user-images.githubusercontent.com/24237865/30772410-01da934e-a095-11e7-8901-d4b1eafb7f43.png)
 
-## Systems
+## Support
 - Simplicity
-- Mode & Notification
-- Support multi-Tileset
-- Tileset & map to data
+- Modes & Notifications
+- Support multi-Tilesets
+- Tilesets & maps to data
 - Support map data simulation
-- Map image auto-save system. (layer1, layer2, entire)
+- Support map image auto-save system. (layer1, layer2, entire)
 - Support infinite layers
-- Free of Tileset
+- Not restriction on Tileset
 
 ## Supporting Size
 - Tileset size : 256 x ∞ px
