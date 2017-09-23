@@ -1,0 +1,60 @@
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\bin\Release\MapEditor.exe.config
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\bin\Release\MapEditor.exe
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\bin\Release\MapEditor.pdb
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.Form1.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.Properties.Resources.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.csproj.GenerateResource.Cache
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.exe
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.pdb
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.TilesetSelect.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.Help.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.NewMap.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.MessageForm.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.TitleForm.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.TilesetSetting.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.TestPlay.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.TransImage.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.MapDataSimulation.resources
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\bin\Release\MapEditor.exe.config
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\bin\Release\MapEditor.exe
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\bin\Release\MapEditor.pdb
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.Form1.resources
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.Help.resources
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.MapDataSimulation.resources
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.MessageForm.resources
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.NewMap.resources
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.Properties.Resources.resources
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.TestPlay.resources
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.TilesetSelect.resources
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.TilesetSetting.resources
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.TitleForm.resources
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.TransImage.resources
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.csproj.GenerateResource.Cache
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.exe
+C:\Users\Skydoves\Desktop\백업\MapEditor\MapEditor\obj\Release\MapEditor.pdb
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.Panorama.resources
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\bin\Release\MapEditor.exe.manifest
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\bin\Release\MapEditor.application
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.exe.manifest
+C:\Users\Skydoves\Desktop\프로젝트 모음\visual studio\MapEditor\MapEditor\obj\Release\MapEditor.application
+C:\Users\magician\Desktop\MapEditor\MapEditor\bin\Release\MapEditor.exe.config
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.exe
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.pdb
+C:\Users\magician\Desktop\MapEditor\MapEditor\bin\Release\MapEditor.exe
+C:\Users\magician\Desktop\MapEditor\MapEditor\bin\Release\MapEditor.pdb
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.csprojResolveAssemblyReference.cache
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.Form1.resources
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.Help.resources
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.MapDataSimulation.resources
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.MessageForm.resources
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.NewMap.resources
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.Panorama.resources
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.Properties.Resources.resources
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.TestPlay.resources
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.TilesetSelect.resources
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.TilesetSetting.resources
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.TitleForm.resources
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.TransImage.resources
+C:\Users\magician\Desktop\MapEditor\MapEditor\obj\Release\MapEditor.csproj.GenerateResource.Cache
