@@ -10,11 +10,29 @@ This project created at 2015.12.6 ~ 2016.1.3
 - Support multi-Tilesets
 - Tilesets & maps to data
 - Support map data simulation
-- Support map image auto-save system. (layer1, layer2, entire)
+- Support map image auto-save system (layer1, layer2, entire)
 - Support infinite layers
-- Not restriction on Tileset
+- No restriction on Tileset
 
-## Supporting Size
+### Modes & Notification
+![111](https://user-images.githubusercontent.com/24237865/31263383-dd980068-aa9c-11e7-975b-d2f3f2ef710b.png)
+
+### Multi-Tilesets
+![222](https://user-images.githubusercontent.com/24237865/31263384-ddbfa0b4-aa9c-11e7-844b-bcb51c7c12f1.png)
+
+### Tilesets & maps to data
+![333](https://user-images.githubusercontent.com/24237865/31263430-14e643f4-aa9d-11e7-86db-e057ef50e8e3.png)
+
+### Map data simulation
+![444](https://user-images.githubusercontent.com/24237865/31263429-14e5701e-aa9d-11e7-82f6-b1e210bc9ddd.png)
+
+### Map image auto-save system
+![555](https://user-images.githubusercontent.com/24237865/31263431-14f602c6-aa9d-11e7-8231-551e06eeeab3.png)
+
+### No restrictions on Tileset
+![777](https://user-images.githubusercontent.com/24237865/31263432-15010f9a-aa9d-11e7-9911-3a1bf69685e8.png)
+
+## Standards Size
 - Tileset size : 256 x ∞ px
 - A peace of tile size : 32 x 32 px
 - Max size of a map : 99 x 99 (3168 x 3168 px)
